@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "d4944f805f1b94ab6dcf7f0fd01fffd906b1ff957b7a6e928ea41b9d79183f23"
+hash = "fc9e64cc4f12af75690583b26b3ecd7a3309381b233163e6714657a2568959e9"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "5ce4ff12a393319ff0b693a3a52e17a99e9482d43c2b3da5b56cf26ec43e4339"
+hash = "0377ee598c73f0214f323459d9f08048a1b44575fbb58fbcef1bbb85b0036414"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+hash = "8b5341f307d62084708da0ac555f937dfc21fe5d00cf94389e99eb0862b74f2d"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
+hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "c5e5b18c293c67a73a61dd5df46e8edc691ad7c53cbe4488cb99889c449719c1"
+hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
 
 [[files]]
@@ -117,10 +117,10 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+hash = "033fac767ade4be03a13f30f52beada048ca5f752e4a4d7e970463bfe8171795"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+hash = "b4d1af03603eba0a2fe8e9db1b0807154bbc16bf669dd084b7c96dded90cf213"
 metafile = true
