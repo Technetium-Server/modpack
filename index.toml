@@ -1,13 +1,61 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/pages.yml"
+hash = "997ca32f8de6008470954c4625f64ae6e00a1dd1b5ef1b16aaad03a0377695e1"
+
+[[files]]
+file = "_config.yml"
+hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "477357164678dae4b9071d7117d9152c8773b8932974e2a553da76304cde7777"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/mainmenu.txt"
+hash = "ed909732cb2a34a70476e3d07f56841ad8946671abe51e6942833f126ec1a26e"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "6e22095baeae6bf7a41555cc5d749e74fbd96182d2c8f5976c2c6f351b48b6d5"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
+hash = "29595a7ce9dd3fa958cd1d90ab1274d778fa371f94ba191e8ec1ea2c04737e03"
 metafile = true
 
 [[files]]
@@ -107,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
-hash = "cf390040fd94f2a6ddca4237ee153c4a4d95ec5ffa30e7d577ccc58632a37cd9"
+hash = "413fa168769a5df136e94ea78e058871ada06ff13c26ae1e56956aeabf84f625"
 metafile = true
 
 [[files]]
@@ -127,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
+hash = "4d4ab47944966e6bb533910bfa087200b1b0dcb5b7ebc293672c927f9083d841"
 metafile = true
 
 [[files]]
@@ -144,3 +192,7 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "b4d1af03603eba0a2fe8e9db1b0807154bbc16bf669dd084b7c96dded90cf213"
 metafile = true
+
+[[files]]
+file = "technetium.png"
+hash = "66f005b9511ed8f0ff7985fa69d7f84f12e626dfa905410de4218b066938e338"
