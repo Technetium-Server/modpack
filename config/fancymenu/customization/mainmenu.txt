@@ -1,0 +1,229 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -200
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  width = 200
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-right
+  x = -119
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-right
+  x = -200
+  action = movebutton
+  y = -32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-right
+  x = -119
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-right
+  x = -98
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 207
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 22424725-f5ea-4aab-923d-9c1d0cb9b2551660423058933
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 6c2de6d7-5a89-46b3-9d75-ea475afeb04e1660423058946
+  y = 307
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 454
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = b96f6838-3767-4c18-80b0-c673e9307e251660423058947
+  y = 329
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 444
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4411b7c7-2732-49b5-bd79-a95f24b104921660423058947
+  y = 187
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 204
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 63d37700-9aaa-464f-9313-e2b15f76b5431660423058947
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = cc80169d-28dc-4436-a4f8-d8679d41956e1660423058948
+  y = 0
+  height = 30
+}
+
+customization {
+  path = technetium.png
+  orientation = top-centered
+  x = -200
+  width = 400
+  action = addtexture
+  actionid = a0a2f946-b488-43af-8342-c1b8195f69621660423952173
+  y = 20
+  height = 60
+}
+
+customization {
+  orientation = mid-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  x = 0
+  width = 160
+  actionid = aee1912b-71a3-4943-9d4d-6aa57d664c751660424260093
+  action = addbutton
+  y = -10
+  label = Rejoindre le serveur
+  value = vivaldi.aeris-one.fr
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Oui, ce menu est degueu, je le referais plus tard :)
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -200
+  width = 400
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 492c61ba-5fd7-433c-a600-aa22540bb77c1660424722116
+  y = 79
+  alignment = centered
+  height = 40
+}
+

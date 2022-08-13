@@ -6,6 +6,11 @@ hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2d9ed6c8325ff9fbcec783c2f94eb22939fc36c1c4b4b11626ab29be3e1276d1"
 metafile = true
 
 [[files]]
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6b570f0c536c8f39eff94b091339472b62061caf72783bfd4693911a6881982f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
 
 [[files]]
