@@ -1,0 +1,13 @@
+name = "Create: Computing"
+filename = "createcomputing-1.0.0-pre3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GVyHe3IO/versions/1.0.0-pre3/createcomputing-1.0.0-pre3.jar"
+hash-format = "sha1"
+hash = "779318a7d3fa983e116383d8c447381c49a77830"
+
+[update]
+[update.modrinth]
+mod-id = "GVyHe3IO"
+version = "LzsVTaG4"

@@ -1,0 +1,13 @@
+name = "Technetium"
+author = "Aeris1One"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bed0e9ece7921224f08a018167b05c534a8499a04f85d183b24823fd289eb926"
+
+[versions]
+forge = "40.1.73"
+minecraft = "1.18.2"

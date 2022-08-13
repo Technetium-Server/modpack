@@ -1,0 +1,126 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "e582b4e2a8990c8847388b4727d2ea95ebb87819b87b241f4f5537dae472651b"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "d4944f805f1b94ab6dcf7f0fd01fffd906b1ff957b7a6e928ea41b9d79183f23"
+metafile = true
+
+[[files]]
+file = "mods/create-computing.pw.toml"
+hash = "b50809fb5494b1d70ad99865d92fc2d884f5b4f2942a69ec95c8eea8a7e805e3"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-mod.pw.toml"
+hash = "1400d5db23c6af96f1334b570793c04eca6e65c242667c35a59e020312922156"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "5ce4ff12a393319ff0b693a3a52e17a99e9482d43c2b3da5b56cf26ec43e4339"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "2d0068cf8f42c43384e3fddc8515217160c1fe0c2bab918445be4bd9080acc9e"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f2491624aa308147b5c78cdbbe9e850430f2479a0bd0529a6b0261d2a082a45c"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "191928ee865991a540baec6ef1ef38af858e6cd7bde9bc5d35c92c2656761fdb"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "348e6f8ae0758c3e07ffa697bf049b3ad507b2ae3e39e75e7c395261f98412b2"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "c5e5b18c293c67a73a61dd5df46e8edc691ad7c53cbe4488cb99889c449719c1"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6b570f0c536c8f39eff94b091339472b62061caf72783bfd4693911a6881982f"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "0b47428289ba4a80e67c672c5452bd793c63a463281fa3f6623317ece3d9b703"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+metafile = true
