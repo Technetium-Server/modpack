@@ -9,83 +9,49 @@ customization-meta {
 }
 
 customization {
+  path = FancyMenu/mainmenu.png
+  action = texturizebackground
+}
+
+customization {
+  baseheight = 768
+  action = autoscale
+  basewidth = 1366
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  orientation = bottom-right
-  x = -200
-  action = movebutton
-  y = -10
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  width = 200
-  action = resizebutton
-  height = 10
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-left
-  x = 0
-  action = movebutton
-  y = 6
+  action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  orientation = bottom-left
-  x = 0
-  action = movebutton
-  y = -20
-}
-
-customization {
-  identifier = %id=376322%
-  orientation = mid-right
-  x = -119
-  action = movebutton
-  y = -15
+  action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-right
-  x = -98
-  action = movebutton
-  y = 6
+  action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-right
-  x = -200
-  action = movebutton
-  y = -32
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 200
-  action = resizebutton
-  height = 20
+  action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-right
-  x = -119
-  action = movebutton
-  y = 6
+  action = hidebutton
 }
 
 customization {
@@ -94,19 +60,8 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-left
-  x = 0
-  action = movebutton
-  y = -15
-}
-
-customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = mid-right
-  x = -98
-  action = movebutton
-  y = -15
+  action = hidebutton
 }
 
 customization {
@@ -120,7 +75,7 @@ customization {
   x = 207
   width = 268
   action = deep_customization_element:title_screen_forge_top
-  actionid = 22424725-f5ea-4aab-923d-9c1d0cb9b2551660423058933
+  actionid = ac34bf69-f50b-483b-91e4-ba257c60056e1660477227776
   y = 4
   height = 19
 }
@@ -131,8 +86,8 @@ customization {
   x = 2
   width = 108
   action = deep_customization_element:title_screen_branding
-  actionid = 6c2de6d7-5a89-46b3-9d75-ea475afeb04e1660423058946
-  y = 307
+  actionid = 874f6fd0-2523-468a-b43a-081c9bb261231660477227776
+  y = 342
   height = 40
 }
 
@@ -142,8 +97,8 @@ customization {
   x = 454
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
-  actionid = b96f6838-3767-4c18-80b0-c673e9307e251660423058947
-  y = 329
+  actionid = 18a35353-d41f-40f0-b3a5-cd0dafa347471660477227778
+  y = 364
   height = 9
 }
 
@@ -153,8 +108,8 @@ customization {
   x = 444
   width = 13
   action = deep_customization_element:title_screen_realms_notification
-  actionid = 4411b7c7-2732-49b5-bd79-a95f24b104921660423058947
-  y = 187
+  actionid = 1f2feeb1-226a-4977-b4c1-1e7f67dc5f1d1660477227778
+  y = 196
   height = 13
 }
 
@@ -164,7 +119,7 @@ customization {
   x = 204
   width = 274
   action = deep_customization_element:title_screen_logo
-  actionid = 63d37700-9aaa-464f-9313-e2b15f76b5431660423058947
+  actionid = ee848aae-c0f6-4a93-917a-db8746802a3c1660477227778
   y = 30
   height = 52
 }
@@ -177,53 +132,106 @@ customization {
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
-  actionid = cc80169d-28dc-4436-a4f8-d8679d41956e1660423058948
+  actionid = c2c06564-f64f-407c-b00b-fad35a1ef8b01660477227778
   y = 0
   height = 30
 }
 
 customization {
-  path = technetium.png
-  orientation = top-centered
-  x = -200
-  width = 400
-  action = addtexture
-  actionid = a0a2f946-b488-43af-8342-c1b8195f69621660423952173
-  y = 20
-  height = 60
-}
-
-customization {
-  orientation = mid-left
-  loopbackgroundanimations = true
+  orientation = top-left
   restartbackgroundanimations = true
   buttonaction = joinserver
-  x = 0
-  width = 160
-  actionid = aee1912b-71a3-4943-9d4d-6aa57d664c751660424260093
+  backgroundhovered = FancyMenu\buttons\play\hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 326
+  width = 120
+  actionid = 3601b4f5-bf78-4347-9762-68accc2e9bc01660478670132
   action = addbutton
-  y = -10
-  label = Rejoindre le serveur
+  y = 275
+  backgroundnormal = FancyMenu\buttons\play\normal.png
   value = vivaldi.aeris-one.fr
-  height = 20
+  height = 31
 }
 
 customization {
-  orientation = top-centered
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = FancyMenu\buttons\settings\hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 0
+  width = 89
+  actionid = 23a7a05e-9882-4f1d-81ab-dfe7e51a440a1660479143409
+  action = addbutton
+  y = 354
+  backgroundnormal = FancyMenu\buttons\settings\normal.png
+  value = net.minecraft.client.gui.screens.OptionsScreen
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = FancyMenu\buttons\langage\hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 0
+  width = 89
+  actionid = caa75935-1bbd-40fb-a799-0b0209873f931660479871738
+  action = addbutton
+  y = 324
+  backgroundnormal = FancyMenu\buttons\langage\normal.png
+  value = net.minecraft.client.gui.screens.LanguageSelectScreen
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  backgroundhovered = FancyMenu\buttons\changelog\unread\hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 0
+  width = 89
+  actionid = f50aa27b-c5c4-4fe9-900c-fadc4f34f63d1660480468852
+  action = addbutton
+  y = 41
+  backgroundnormal = FancyMenu\buttons\changelog\unread\normal.png
+  value = changelog
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  x = 5
+  width = 15
+  action = addwebtexture
+  actionid = 6cdebcf3-1b6f-4e06-b121-dcca88c99ef31660480711333
+  y = 11
+  url = https://crafatar.com/avatars/%playeruuid%
+  height = 15
+}
+
+customization {
+  orientation = top-left
   enable_scrolling = true
-  shadow = true
+  shadow = false
   scale = 1.0
-  source = Oui, ce menu est degueu, je le referais plus tard :)
+  source = %playername%
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -200
-  width = 400
+  x = 25
+  width = 200
   action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 492c61ba-5fd7-433c-a600-aa22540bb77c1660424722116
-  y = 79
-  alignment = centered
+  actionid = 549b7d16-944b-48ec-96a5-e2efa469dfcf1660480770258
+  y = 17
+  alignment = left
   height = 40
 }
 

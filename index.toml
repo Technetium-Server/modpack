@@ -1,20 +1,68 @@
 hash-format = "sha256"
 
 [[files]]
+file = "FancyMenu/buttons/changelog/unread/hover.png"
+hash = "e5bbff83de6a91e4ac45445f30a92b044983fe86f74cde592e6725a6f897d279"
+
+[[files]]
+file = "FancyMenu/buttons/changelog/unread/normal.png"
+hash = "c7834396bd3c5b83def7fef0533b7ce3ddff56685c32080cabf50ffcf8a32540"
+
+[[files]]
+file = "FancyMenu/buttons/langage/hover.png"
+hash = "856597bfcf7fa80c6d6671336a6c4d039a78904e039d4fbd39bc9bf323b193cb"
+
+[[files]]
+file = "FancyMenu/buttons/langage/normal.png"
+hash = "b30a89334a6dd673e2d81bf078c706a9fd9555c67ec955672dfd2eac459b4d99"
+
+[[files]]
+file = "FancyMenu/buttons/play/hover.png"
+hash = "17b4db3b137c72cd7efebf54c86a10716de328fd9f73f25b45ef88eccc25c92d"
+
+[[files]]
+file = "FancyMenu/buttons/play/normal.png"
+hash = "c662b4d760968e9d51513b38b5b51cc5ed2bcbd037408fb2cef6bcc42efc191a"
+
+[[files]]
+file = "FancyMenu/buttons/settings/hover.png"
+hash = "b6bd2a9f998297c76d7a6f3efafc2f4fd94a43b7737e68654e22265fac4dbf8d"
+
+[[files]]
+file = "FancyMenu/buttons/settings/normal.png"
+hash = "93622165bf09e318a00d8a7ace1915dd558aeb327dcc51725414612c5d221bc4"
+
+[[files]]
+file = "FancyMenu/errorscreen.png"
+hash = "6229676b10331bc790e5fba673a1c4a0c2f62a6d483b8312b338c18f6f12a5b5"
+
+[[files]]
+file = "FancyMenu/mainmenu.png"
+hash = "966cc89ff57ce62b933a011a4efaf38a4feb66119c85b0f0dce888ea9091c269"
+
+[[files]]
 file = "_config.yml"
 hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "477357164678dae4b9071d7117d9152c8773b8932974e2a553da76304cde7777"
+hash = "da089ee3cb457fe7558619f42401ac86c6f36bae6e7918641f4c5d3f3ce8efb9"
+
+[[files]]
+file = "config/fancymenu/customguis/changelog.txt"
+hash = "fd9a51706db256228fc0c8d3fa94ed596c161ee2dfcea7e6330a1e98fc3e0cd3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "31defe5530e99a07a1df213b4d47c9d33831581552bf1e5c044d331b9d411ccc"
 
 [[files]]
-file = "config/fancymenu/customization/mainmenu.txt"
-hash = "ed909732cb2a34a70476e3d07f56841ad8946671abe51e6942833f126ec1a26e"
+file = "config/fancymenu/customization/MainMenu.txt"
+hash = "a98d2390a798e9466e9ec7ccd76d7f833a7f1c20731368165222979331042275"
+
+[[files]]
+file = "config/fancymenu/customization/changelog.txt"
+hash = "c3aa86d8f280c14f26c44d15c213d0d2d92347cbe1963957d921b1ea4b62708e"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -65,6 +113,11 @@ hash = "e582b4e2a8990c8847388b4727d2ea95ebb87819b87b241f4f5537dae472651b"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
 metafile = true
@@ -72,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "fc9e64cc4f12af75690583b26b3ecd7a3309381b233163e6714657a2568959e9"
+metafile = true
+
+[[files]]
+file = "mods/colytra.pw.toml"
+hash = "e63c9ac14ae068b01298e9a142e03a14a471ad9ee77efccdd47a8f4112ddbd51"
 metafile = true
 
 [[files]]
@@ -120,6 +178,16 @@ hash = "8b5341f307d62084708da0ac555f937dfc21fe5d00cf94389e99eb0862b74f2d"
 metafile = true
 
 [[files]]
+file = "mods/hourglass.pw.toml"
+hash = "276fb77b093f87f45c5dcee251b3bee680f7a386692c7a3afea7547d2cce66a3"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
 metafile = true
@@ -135,6 +203,11 @@ hash = "191928ee865991a540baec6ef1ef38af858e6cd7bde9bc5d35c92c2656761fdb"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources-forge.pw.toml"
+hash = "60146138241d44eceeb3bdc4258bb503afdc5ef5751f2ccec0578a75b2d6f02c"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "348e6f8ae0758c3e07ffa697bf049b3ad507b2ae3e39e75e7c395261f98412b2"
 metafile = true
@@ -145,13 +218,13 @@ hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "413fa168769a5df136e94ea78e058871ada06ff13c26ae1e56956aeabf84f625"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "413fa168769a5df136e94ea78e058871ada06ff13c26ae1e56956aeabf84f625"
+file = "mods/puzzles-lib.pw.toml"
+hash = "538110c41fa71c27058a38b1660a02eff1521ca8011aa4e08ae722fdcb64d35b"
 metafile = true
 
 [[files]]
@@ -182,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "033fac767ade4be03a13f30f52beada048ca5f752e4a4d7e970463bfe8171795"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "7dfb918a920c3bb82a663a71571e9da813fe633ba04ea2cfb4b040c6ab0a2705"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Technetium"
 author = "Aeris1One"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "defdcae47b2398c12f370a0fbd506c21cf9052a4c0a0dba02d79466c50fcea05"
+hash = "7e55fafabafc62db57e0ca1dda337820b710e234156d89e48d81cc6043e7b16c"
 
 [versions]
 forge = "40.1.73"

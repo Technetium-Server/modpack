@@ -1,0 +1,3 @@
+identifier = changelog
+title = Quoi de neuf ?
+allowesc = true
