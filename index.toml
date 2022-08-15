@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "7a35e6905d6ad83b8101443bf348748a36d7755b277dae6e017ff9f1286fee0d"
+hash = "f0bb8a9b1699248d7ccad760e5b9a51070c0b377fd264476ccdf0351deadfe99"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "eab8175203c0bb3bf6f6954e776e80e246459e0bfa8f688c0fed5233069fe0bc"
+hash = "9e2cf1803c338be65b34652f48baa0cafa5fe9874a672342eb87bdf4899a5c07"
 metafile = true
 
 [[files]]
@@ -235,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
-metafile = true
-
-[[files]]
-file = "mods/pollen.pw.toml"
-hash = "1edcad1067acfa6a684424fc510a3e08a0e2ba4bd80a936877d75f5b9dea7016"
 metafile = true
 
 [[files]]
