@@ -113,11 +113,6 @@ hash = "57479f845b148d618038322ffc8a489808edf44f2e78b66bf185d87dae316304"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
-metafile = true
-
-[[files]]
 file = "mods/blockui.pw.toml"
 hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
 metafile = true
