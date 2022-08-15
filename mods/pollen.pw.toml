@@ -1,6 +1,6 @@
 name = "Pollen"
 filename = "pollen-forge-1.4.9+1.18.2.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
