@@ -93,6 +93,31 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "e23394df0648c2827ca5223d840f10b34f622c2d2c2199a8cb66b24d856ae3dd"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "b2e13833b9a8f77021d9d8ccec016ef0dc0921c73c28bbe9f46165532f1e3e1d"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "d1d6b913845d8e1e84c087e0db1a6be05f16fe9df7a8c45627b26578389f76ba"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "a2a175de9f0b6977a319f63003a4917a9338798a7642425a897bceffa4f06803"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "a762f6dceebde5eae6b5a696ea3dfa419c4468d663d172cc5c0d1c0b58aebc93"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
 metafile = true
@@ -213,6 +238,11 @@ hash = "191928ee865991a540baec6ef1ef38af858e6cd7bde9bc5d35c92c2656761fdb"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "278a10bb8e93882020b0589c14cc473f7bc4b266ed9c40208c84828f9b418ab0"
 metafile = true
@@ -245,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "538110c41fa71c27058a38b1660a02eff1521ca8011aa4e08ae722fdcb64d35b"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7003c367b314e576b9017387171334754832f32735e1d7377d790f508b8ad85a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks: Player Protection / Child Mode"
+filename = "adaptive_performance_tweaks_player_1.18.2-3.12.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "625501be6c44e8378ef299298a1e16750375a46e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3921869
+project-id = 563963
