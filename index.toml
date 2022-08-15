@@ -108,11 +108,6 @@ hash = "29595a7ce9dd3fa958cd1d90ab1274d778fa371f94ba191e8ec1ea2c04737e03"
 metafile = true
 
 [[files]]
-file = "mods/anchor.pw.toml"
-hash = "57479f845b148d618038322ffc8a489808edf44f2e78b66bf185d87dae316304"
-metafile = true
-
-[[files]]
 file = "mods/blockui.pw.toml"
 hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
 metafile = true
