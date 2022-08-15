@@ -98,18 +98,23 @@ hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "7a35e6905d6ad83b8101443bf348748a36d7755b277dae6e017ff9f1286fee0d"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "29595a7ce9dd3fa958cd1d90ab1274d778fa371f94ba191e8ec1ea2c04737e03"
 metafile = true
 
 [[files]]
 file = "mods/anchor.pw.toml"
-hash = "9c2bb1c43b384bc4ecc6caecc6ed5c0224debf32d3934c7d6d01f4ff129d3970"
+hash = "57479f845b148d618038322ffc8a489808edf44f2e78b66bf185d87dae316304"
 metafile = true
 
 [[files]]
 file = "mods/betterloadingscreen.pw.toml"
-hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
+hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
 metafile = true
 
 [[files]]
@@ -193,6 +198,11 @@ hash = "276fb77b093f87f45c5dcee251b3bee680f7a386692c7a3afea7547d2cce66a3"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "eab8175203c0bb3bf6f6954e776e80e246459e0bfa8f688c0fed5233069fe0bc"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
 metafile = true
@@ -213,8 +223,13 @@ hash = "191928ee865991a540baec6ef1ef38af858e6cd7bde9bc5d35c92c2656761fdb"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "674d928e18046d5c9b4fb2b34e70a37ce2c17aca351016b67729ada40a04ed6d"
+metafile = true
+
+[[files]]
 file = "mods/load-my-resources-forge.pw.toml"
-hash = "60146138241d44eceeb3bdc4258bb503afdc5ef5751f2ccec0578a75b2d6f02c"
+hash = "2a6ba9d3543f1aa485e66ebd1b8195178eb6c5b5b79e381ec1d7a7a806f7afb7"
 metafile = true
 
 [[files]]
@@ -229,12 +244,17 @@ metafile = true
 
 [[files]]
 file = "mods/pollen.pw.toml"
-hash = "1edcad1067acfa6a684424fc510a3e08a0e2ba4bd80a936877d75f5b9dea7016"
+hash = "68456e4fa38ae941d58937081a587fc6a270f040971cd12bb0364ac82948b870"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "413fa168769a5df136e94ea78e058871ada06ff13c26ae1e56956aeabf84f625"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "570d05b2d14b42702e4ec5cbd31437c69c7be92d0fd0b94d0b4f213468b13072"
 metafile = true
 
 [[files]]
