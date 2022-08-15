@@ -103,6 +103,16 @@ hash = "29595a7ce9dd3fa958cd1d90ab1274d778fa371f94ba191e8ec1ea2c04737e03"
 metafile = true
 
 [[files]]
+file = "mods/anchor.pw.toml"
+hash = "9c2bb1c43b384bc4ecc6caecc6ed5c0224debf32d3934c7d6d01f4ff129d3970"
+metafile = true
+
+[[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
 metafile = true
@@ -215,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
+hash = "1edcad1067acfa6a684424fc510a3e08a0e2ba4bd80a936877d75f5b9dea7016"
 metafile = true
 
 [[files]]
