@@ -273,6 +273,11 @@ hash = "4d4ab47944966e6bb533910bfa087200b1b0dcb5b7ebc293672c927f9083d841"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
 metafile = true
